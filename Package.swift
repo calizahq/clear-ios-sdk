@@ -13,6 +13,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "Clear", url: "https://github.com/clearsecureidentity/clear-ios-sdk/releases/download/1.5.0/Clear.xcframework.zip", checksum: "5f567c5613b0e194435bc1eb2512061cfd2a9901ac32e903f997c0710d76a3c8"),
+        .binaryTarget(name: "Clear", url: "https://github.com/calizahq/clear-ios-sdk/releases/download/1.5.0/Clear.xcframework.zip", checksum: "5f567c5613b0e194435bc1eb2512061cfd2a9901ac32e903f997c0710d76a3c8"),
     ]
 )
